@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text sizes -->
+
+    <!-- Small texts on screen -->
+    <dimen name="text_size_small">15sp</dimen>
+
+    <!-- Buttons text -->
+    <dimen name="text_size_normal">20sp</dimen>
+
+    <!-- Main header -->
+    <dimen name="math_result_text">50sp</dimen>
+
+    <!-- Under header -->
+    <dimen name="math_main_text">30sp</dimen>
+
+    <!-- Dimensions -->
+
+    <dimen name="buttons_margin">1dp</dimen>
+
+</resources>

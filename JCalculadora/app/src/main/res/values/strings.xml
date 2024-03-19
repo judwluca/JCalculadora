@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">JCalculadora</string>
+
+    // row 1
+    <string name="percentage">%</string>
+    <string name="log">LOG</string>
+    <string name="opParenthesis">(</string>
+    <string name="clParenthesis">)</string>
+    <string name="c">C</string>
+    <string name="backspace">⌫</string>
+
+    // row 2
+    <string name="factor">x!</string>
+    <string name="power">x²</string>
+    <string name="root">²√x</string>
+    <string name="division">÷</string>
+
+    // row 3
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="times">x</string>
+
+    // row 4
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="minus">-</string>
+
+    // row 5
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+
+    // row 6
+    <string name="swish">+/-</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equals">=</string>
+
+
+</resources>
